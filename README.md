@@ -1,3 +1,3 @@
 # Book-turning-Animation-
 
-http://192.168.0.102:5501/book.html
+https://shiv452.github.io/Book-turning-Animation-/
